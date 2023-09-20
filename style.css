@@ -3,7 +3,9 @@
     margin: 0px;
     padding: 0px;
   }
-
+  p{
+    font-family: 'Caveat', cursive;
+  }
   /* Styling the first parallax's
     height, width and background color */
   .parallax-1 {
@@ -16,6 +18,7 @@
 
   /* Styling the title of first parallax */
   .parallax-1 h2 {
+    font-family: 'Caveat', cursive;
     margin: auto;
     position: relative;
     left: 500x;
@@ -40,6 +43,7 @@
 
   /* Styling the title of second parallax */
   .parallax-2 h2 {
+    font-family: 'Caveat', cursive;
     margin: auto;
     position: relative;
     left: 500x;
@@ -51,7 +55,7 @@
     color: black;
     text-align: center;
     font-size: 30px;
-    font-family: Verdana;
+    /* font-family: Verdana; */
   }
 
   /* Styling the content or paragraph */
